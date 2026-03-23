@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0152-maximum-product-subarray) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
