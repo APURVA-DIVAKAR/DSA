@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0344-reverse-string) |
 ## Array
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
