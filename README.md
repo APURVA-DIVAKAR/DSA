@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
