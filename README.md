@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0204-count-primes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
@@ -57,9 +58,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0371-sum-of-two-integers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/APURVA-DIVAKAR/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
